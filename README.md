@@ -21,6 +21,5 @@ Artifacts คือความผิดเพี้ยนที่เกิด�
 <a href="https://chatgpt.com/">
   <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-3.svg" alt="ChatGPT Logo" style="width: 100px; height: auto;">
 </a>
-<hr>
-- [JPEG-Artifact-Generator]( https://kgrundownyouth.github.io/JPEG-Artifact-Generator)
-<hr/>
+<br>
+ - [JPEG-Artifact-Generator]( https://kgrundownyouth.github.io/JPEG-Artifact-Generator)
