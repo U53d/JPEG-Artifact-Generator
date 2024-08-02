@@ -18,4 +18,4 @@ Artifacts คือความผิดเพี้ยนที่เกิด�
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://cdn.worldvectorlogo.com/logos/chatgpt-3.svg)](https://chatgpt.com/))
