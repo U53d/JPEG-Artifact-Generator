@@ -21,7 +21,3 @@ Artifacts คือความผิดเพี้ยนที่เกิด�
 <a href="https://chatgpt.com/">
   <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-3.svg" alt="ChatGPT Logo" style="width: 100px; height: auto;">
 </a>
- &nbsp; &nbsp;
-<a href="https://gemini.google.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Google Gemini Logo" style="width: 100px; height: auto;">
-</a>
