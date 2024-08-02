@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JPEG Artifact Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>JPEG Artifact Generator</h1>
+    <div class="container">
+        <div class="controls">
+            <input type="file" id="uploadimage" />
+            <button onClick="doIt()">Create JPEG Artifacts</button>
+            <label for="factor">Base JPEG compression:</label>
+            <input id="factor" type="range" min="0" max=".5" step=".01" value=".2" onchange="document.getElementById('fval').innerHTML=this.value" />
+            <span id="fval">.2</span>
+            <button onClick="for (var x=0; x < document.getElementById('loopc').value * 1; x++) { doIt(); }">Auto Looper</button>
+            <label for="loopc">Create artifacts</label>
+            <input id="loopc" type="text" size="1" value="100" />
+            <label>times</label>
+            <button onClick="reset()">Reset Image</button>
+        </div>
+
+        <div class="image-container">
+            <div>
+                Input:<br/>
+                <img id="in" />
+            </div>
+            <div>
+                Output:<br/>
+                <img id="out" />
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
