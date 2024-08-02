@@ -22,4 +22,4 @@ Artifacts คือความผิดเพี้ยนที่เกิด�
   <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-3.svg" alt="ChatGPT Logo" style="width: 100px; height: auto;">
 </a>
 <br>
- - [JPEG-Artifact-Generator]( https://kgrundownyouth.github.io/JPEG-Artifact-Generator)
+     - [JPEG-Artifact-Generator](  https://kgrundownyouth.github.io/JPEG-Artifact-Generator/)
