@@ -2,7 +2,7 @@
 
 JPEG Artifact Generator คือเครื่องมือที่ใช้ในการสร้างหรือเพิ่มความผิดเพี้ยนของภาพ (artifacts) ในไฟล์ภาพ JPEG โดยอาศัยหลักการบีบอัดข้อมูลแบบสูญเสีย (lossy compression) ของ JPEG ซึ่งจะทำให้ภาพมีขนาดเล็กลง แต่คุณภาพของภาพจะลดลงด้วย
 
-      https://kgrundownyouth.github.io/JPEG-Artifact-Generator/
+     [JPEG-Artifact-Generator](  https://kgrundownyouth.github.io/JPEG-Artifact-Generator/)
 
 - Artifacts คืออะไร?
 
