@@ -11,7 +11,7 @@
     <h1>JPEG Artifact Generator</h1>
     <div class="container">
         <div class="controls">
-            <input type="file" id="uploadimage" />
+            <input type="file" id="uploadimage" accept=".png, .jpeg, .jpg" />
             <button onClick="doIt()">Create JPEG Artifacts</button>
             <label for="factor">Base JPEG compression:</label>
             <input id="factor" type="range" min="0" max=".5" step=".01" value=".2" onchange="document.getElementById('fval').innerHTML=this.value" />
